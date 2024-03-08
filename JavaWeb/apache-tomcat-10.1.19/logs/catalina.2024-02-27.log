@@ -1,0 +1,43 @@
+27-Feb-2024 00:03:10.668 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.19
+27-Feb-2024 00:03:10.672 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Feb 14 2024 19:36:50 UTC
+27-Feb-2024 00:03:10.672 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.19.0
+27-Feb-2024 00:03:10.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+27-Feb-2024 00:03:10.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+27-Feb-2024 00:03:10.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+27-Feb-2024 00:03:10.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+27-Feb-2024 00:03:10.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.10+11-LTS-240
+27-Feb-2024 00:03:10.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+27-Feb-2024 00:03:10.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19
+27-Feb-2024 00:03:10.673 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19
+27-Feb-2024 00:03:10.700 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\conf\logging.properties
+27-Feb-2024 00:03:10.700 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Feb-2024 00:03:10.700 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+27-Feb-2024 00:03:10.700 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Feb-2024 00:03:10.701 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Feb-2024 00:03:10.701 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+27-Feb-2024 00:03:10.701 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+27-Feb-2024 00:03:10.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Feb-2024 00:03:10.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Feb-2024 00:03:10.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19
+27-Feb-2024 00:03:10.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19
+27-Feb-2024 00:03:10.702 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\temp
+27-Feb-2024 00:03:10.746 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.7] using APR version [1.7.4].
+27-Feb-2024 00:03:10.763 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.13 30 Jan 2024]
+27-Feb-2024 00:03:10.993 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+27-Feb-2024 00:03:11.020 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [516] milliseconds
+27-Feb-2024 00:03:11.067 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+27-Feb-2024 00:03:11.067 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.19]
+27-Feb-2024 00:03:11.085 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\demo]
+27-Feb-2024 00:03:11.516 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\demo] has finished in [432] ms
+27-Feb-2024 00:03:11.516 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\docs]
+27-Feb-2024 00:03:11.560 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\docs] has finished in [43] ms
+27-Feb-2024 00:03:11.560 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\examples]
+27-Feb-2024 00:03:12.343 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\examples] has finished in [783] ms
+27-Feb-2024 00:03:12.344 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\host-manager]
+27-Feb-2024 00:03:12.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\host-manager] has finished in [56] ms
+27-Feb-2024 00:03:12.401 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\manager]
+27-Feb-2024 00:03:12.442 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\manager] has finished in [41] ms
+27-Feb-2024 00:03:12.443 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\ROOT]
+27-Feb-2024 00:03:12.470 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\hongr\OneDrive\桌面\Programming Language\Java\JavaWeb\apache-tomcat-10.1.19\webapps\ROOT] has finished in [28] ms
+27-Feb-2024 00:03:12.476 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Feb-2024 00:03:12.557 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1537] milliseconds
