@@ -15,6 +15,7 @@ public class HelloWorldServlet extends HttpServlet {
         out.println("<body>");
         out.println("<h1>Hello, World!</h1>");
         out.println("<h1>Yes......</h1>");
+        out.println("<h1>Fuck Java</h1>");
         out.println("</body>");
         out.println("</html>");
         // var out = response.getWriter();
